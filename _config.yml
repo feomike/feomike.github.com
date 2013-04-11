@@ -1,0 +1,7 @@
+title: feoNotes
+subtitle: notes and reflections by feoMike
+
+#build config
+server: true
+auto: true
+markdown: rdiscount 
