@@ -11,7 +11,7 @@ On Friday, March 22, 2013, the Federal Aviation Administration released this [pr
 
 In addition to the release was a [document](http://www.faa.gov/news/media/fct_closed.pdf) listing the individual name, city, state and airport identification signs of those towers to be closed.
 
-Working on a previous [conclusion](http://feomike.github.com/posts/2013/state_seq/) that perhaps PDFs are not a great way to release data, and that indeed information like this is a) easy to produce and b) very cheap to publish and host as rich interactive content, I took the short time to open this data and make it releaseable.  Below is the dynamic map which is the result.
+Working on a previous [conclusion](http://feomike.github.com/posts/2013/state_seq) that perhaps PDFs are not a great way to release data, and that indeed information like this is a) easy to produce and b) very cheap to publish and host as rich interactive content, I took the short time to open this data and make it releaseable.  Below is the dynamic map which is the result.
 
 
 <iframe width='700' height='400' frameBorder='0' src='http://a.tiles.mapbox.com/v3/feomike.map-vl7gh805.html#4/38/-96.60'></iframe>
