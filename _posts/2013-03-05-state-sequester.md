@@ -1,10 +1,11 @@
 ---
 layout: posts
 title: Example State Sequester
-catch: This page is an example of transforming data into visualizations. It is entirely a work of my own and not in any way associated with my employer.
+desc: On Sunday, February 25, 2013, the White House released documents detailing the projected costs to states of the upcoming sequester. Several news outlets carried the story, however, only the Huffington Post had links to each individual state document.
+permalink: /post/example-state-sequester.html
+shortdesc: On Sunday, February 25, 2013, the White House released documents detailing the projected costs to states of the upcoming sequester.
 ---
-##Goal
-I wanted to test some ideas brewing around
+I wanted to test some ideas brewing around.
 
 1. data as part of the web ecology and
 2. launching interactive maps and visualizations with no software costs and no hardware costs or infrastructure.
@@ -50,5 +51,5 @@ I also engaged another colleague, [@qinxiaoming](https://twitter.com/qinxiaoming
 ####Total
 - **$0 spent thanks to open source software and free web hosting**
 
-##Conclusion
+##Notes
 I think there is a repeatable process here that people should know about.

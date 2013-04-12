@@ -1,0 +1,60 @@
+{
+  "bounds": [
+    -128.6719,
+    22.5937,
+    -66.7969,
+    52.0525
+  ],
+  "center": [
+    -99.1406,
+    37.7186,
+    1
+  ],
+  "format": "png",
+  "interactivity": {
+    "layer": "faa_closed",
+    "template_teaser": "{{{Facility Name}}};  {{{City}}}, {{{State}}}"
+  },
+  "minzoom": 0,
+  "maxzoom": 14,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "id": "countries",
+      "name": "countries",
+      "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+      "geometry": "polygon",
+      "Datasource": {
+        "file": "http://mapbox-geodata.s3.amazonaws.com/natural-earth-1.4.0/cultural/10m-admin-0-countries.zip",
+        "type": "shape"
+      }
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -124.244652,
+        25.90638,
+        -70.911201,
+        48.1791
+      ],
+      "id": "faa_closed",
+      "class": "",
+      "Datasource": {
+        "file": "/Users/feomike/Downloads/fAA_closed_20130322-1364006647246.geojson"
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "faa_closed"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "FAA Closed Sites",
+  "description": "FAA Closed Sites 20130322 - http://www.faa.gov/news/media/fct_closed.pdf",
+  "legend": "",
+  "attribution": ""
+}
