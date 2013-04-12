@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="/css/state_seq.css" media="screen"/>
+    <link rel="stylesheet" type="text/css" href="/css/pygment_trac.css" media="screen"/>
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>  
+    <![endif]-->
+</head>
+
+<body>
+    <div class="header">
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="span12">
+                    <hgroup>
+                        <h1>feoNotes</h1>
+                        <h2>notes and reflections by feoMike</h2>
+                    </hgroup>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="container-fluid">
+    <div class="row-fluid">
+        <div class="span12">
+            <h2>FAA Airport Closures</h2>
+
+<p>On Friday, March 22, 2013, the Federal Aviation Administration released this <a href="http://www.faa.gov/news/press_releases/news_story.cfm?newsId=14414">press release</a> describing a "decision that 149 federal contract towers will close beginning April 7 as part of the agency’s sequestration implementation plan."</p>
+
+<p>In addition to the release was a <a href="http://www.faa.gov/news/media/fct_closed.pdf">document</a> listing the individual name, city, state and airport identification signs of those towers to be closed.</p>
+
+<p>Working on a previous <a href="http://feomike.github.com/posts/2013/state_seq">conclusion</a> that perhaps PDFs are not a great way to release data, and that indeed information like this is a) easy to produce and b) very cheap to publish and host as rich interactive content, I took the short time to open this data and make it releasable.  Below is the dynamic map which is the result.</p>
+
+<h2>How I Did It</h2>
+
+<p>I first copied the data from the pdf above, into this <a href="../../data/faa_closed_20130322.csv">text</a>.  This 'data file' is essentially one row per newly proposed closed airport by the FAA.  I saved that document to an excel file, and uploaded that file to <a href="https://docs.google.com/spreadsheet/ccc?key=0Aooxb2GcQ9ifdDRWOVBLUU1ocHRuNFRSUjNwVUZjYmc&amp;usp=sharing">this google document sheet</a>.  I edited the columns slightly, to concatenate the columns (see column F) into a more readible place name; one that was more likely to be found by a geocoder.  I then used <a href="http://mapbox.com/blog/mapping-google-doc-spreadsheet/">this process</a> to associate each row (e.g. airport) with its latitude and longitude.</p>
+
+<p>The same <a href="http://mapbox.com/blog/mapping-google-doc-spreadsheet/">tool</a> described above, contains a way to export this newly geocoded file to a geoJson file.  I performed that export, which is <a href="../../data/FAA_closed_20130322.geojson">this file</a>.</p>
+
+<p>I then used <a href="http://mapbox.com/tilemill/">TileMill</a> to create a simple map of these locations.</p>
+
+<p>For all intents and purposes, this process was essentally free and took little time to produce.</p>
+
+<h2>Results</h2>
+
+<iframe width='700' height='400' frameBorder='0' src='http://a.tiles.mapbox.com/v3/feomike.map-vl7gh805.html#4/38/-96.60'></iframe>
+
+
+<p><a href="http://a.tiles.mapbox.com/v3/feomike.map-vl7gh805.html#4/38/-96.60">View full map</a></p>
+
+<h4>Data</h4>
+
+<p>The new data files can be found below and so can a brief description of how I did this.</p>
+
+<ul>
+<li><a href="/data/FAA_closed_20130322.geojson">Data File - geojson</a></li>
+<li><a href="/maps/faa_20130322.mml">TileMill Map Project Fle</a></li>
+</ul>
+
+
+<h2>Notes</h2>
+
+<p>The process is simple repeatable, but more importantly, the impact of the news item is much more clearly represented.  In my (our) previous experiment, independent <a href="http://chelm.github.com/state_seq/examples/states.html">new applications</a> sprung up.  I expect the same might be true here.</p>
+
+        </div>
+    </div>
+</div>
+
+    <div class="footer">
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="span12">
+                    The notes and reflections in this site are my own.  This is entirely a work of my own and not in any way associated with my employer.
+                </div>
+            </div>
+        </div>
+    </div>
+
+<body>
+</html>
