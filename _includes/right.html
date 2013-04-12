@@ -1,0 +1,12 @@
+<div class="other-posts hero-unit">
+    <h2>Other Posts</h2>
+    {% for post in site.posts %}
+        {% if post.id != page.id %}
+        <hgroup>
+            <h4><a href="{{ post.permalink }}">{{ post.title }}</a></h4>
+        </hgroup>
+        <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
+        <p class="short-desc">{{ post.shortdesc }}</p>
+        {% endif %}
+    {% endfor %}
+</div>

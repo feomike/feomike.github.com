@@ -3,9 +3,9 @@ layout: posts
 title: Example State Sequester
 desc: On Sunday, February 25, 2013, the White House released documents detailing the projected costs to states of the upcoming sequester. Several news outlets carried the story, however, only the Huffington Post had links to each individual state document.
 permalink: /post/example-state-sequester.html
+shortdesc: On Sunday, February 25, 2013, the White House released documents detailing the projected costs to states of the upcoming sequester.
 ---
-##Goal
-I wanted to test some ideas brewing around
+I wanted to test some ideas brewing around.
 
 1. data as part of the web ecology and
 2. launching interactive maps and visualizations with no software costs and no hardware costs or infrastructure.

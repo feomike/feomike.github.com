@@ -2,10 +2,9 @@
 layout: posts
 title: DevEx Days
 desc: Recently at the FCC, we held an unusual day.  We call it D(f)evEx (pronounced as either devex or fedex) Days, and this was our first ever.  The idea stems from fedEx, where something needs to be delivered (as in 'to production') in 24 hours; combined with a developer day. We took the opportunity to take a time out for our day to day grind, and promise to each other that we would produce working product in the next 24 hours; in essence a focused day of learning new skills, or honing existing ones, NOT part of our regular duties.
+shortdesc: Recently at the FCC, we held an unusual day.  We call it D(f)evEx (pronounced as either devex or fedex) Days, and this was our first ever.
 permalink: /post/devex-days.html
 ---
-##DevEx Days
-
 Recently at the FCC, we held an unusual day.  We call it D(f)evEx (pronounced aither as devex or fedex) Days, and this was our first ever.  The idea stems from fedEx, where something needs to be delivered (as in production) in 24 hours; combined with a developer day. We took the opportunity to take a time out for our day to day grind, and promise to each other that we would produce working product in the next 24 hours; in essence a focused day of learning new skills, or honing existing ones, NOT part of our regular duties.
 
 We wanted to test this out as an institutional innovation development kind of thing.  How could we spur some innovation, have some fun, and produce some product?  Rather than a forming a subcommittee to plan a meeting date to decide if we could bring in some facilitators and flesh out some objective learning, we said, lets just try a focused day of developing; developing whatever we want. The results are fascinating.  

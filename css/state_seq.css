@@ -29,10 +29,16 @@ h4 {
 
 .container-fluid {
 	margin:0 auto;
-	max-width:800px;
+	max-width:900px;
 	padding:0;
 }
-
+.hero-unit {
+	background-color: rgba(0, 0, 0, .15);
+	margin-top: 40px;
+}
+.hero-unit h2 {
+	margin-top: 0;
+}
 .btn {
 	background-color:rgba(0,0,0,.1);
 	box-shadow: none;
@@ -56,8 +62,25 @@ a.btn {
   background-color: rgba(0,0,0,.3);
 }
 
-/* header */
+.date {
+	color: #999999;
+	font-size: 13px;
+}
 
+/* other posts */
+.other-posts h4 {
+	margin-top: 10px;
+	margin-bottom: 3px;
+}
+.other-posts .date {
+	font-size: 11px;
+	margin-bottom: 3px;
+}
+.other-posts .short-desc {
+	margin-bottom: 30px;
+}
+
+/* header */
 .header {
 	background-color: #000000;
 	background-color: rgba(0, 0, 0, .15);
