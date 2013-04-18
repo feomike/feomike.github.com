@@ -39,7 +39,7 @@ Shelley wanted to work with a geospatial application we don't currently employ h
 
 ####Participant: **Paul Salaznyk**
 
-Paul wanted to focus on data.  He took data from the National Quality Assessment of the National Broadband Map.  This [data](http://www.broadbandmap.gov/about/technical-overview/data-review) is a comprehensive comparison of each and every record published by the national broadband map to as many as 4 third party dataset for the most intensive quality assessment that can be done.  Pauls [results](http://psalaz.github.io/bbmap-quality/) are a great look at the largest nationwide providers and the quality of the NBM compared to other sources.
+Paul wanted to focus on data.  He took data from the National Quality Assessment of the National Broadband Map.  This [data](http://www.broadbandmap.gov/about/technical-overview/data-review) is a comprehensive comparison of each and every record published by the national broadband map to as many as 4 third party dataset for the most intensive quality assessment that can be done.  Pauls [results](http://psalaz.github.io/bbmap-quality/) are a great look at the largest nationwide providers and the quality of the NBM compared to other sources.  The data for Pauls project are from [the wireline](http://www.broadbandmap.gov/developer/api/wireline-broadband-api) and [wireless](http://www.broadbandmap.gov/developer/api/wireless-broadband-api) apis.
 
 ####Participant:  **Anne Levine**
 
