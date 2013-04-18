@@ -13,7 +13,7 @@ Here were the rules.
 
 1. Say what you were planning on doing.  We all gathered for a morning meeting at 8:30 am.  At that meeting each person had 2 minutes to describe what we were going to work on for the next day.  For your 2 minutes you needed to say what your intent was, what you wanted to deliver, and what was the outcome.  The reason we did it this way was to institude peers holding to peers.  If you promise to your peers you were going to do something, you had better deliver.  
 
-2. Work on that for the next day.  The work product you were planning shouldn't be part of your normal work activities.
+2. Work on that for the next 24 hours; phone off, email off, calendar blocked out, no distractions, just code.  The work product you were planning shouldn't be part of your normal work activities.
 
 3. Present results.  At 2 pm the next day, come back together.  Everyone has 10 minutes to present their product, followed by 5 minutes of questions, critiques and the like.  The presentations generally followed, this is what I set out to do, this is what I ended up doing, this is what i learned, and this is why its important.  The questions were generally things like why didn't you do it this way, thats cool, what would you do next.
 
@@ -67,5 +67,9 @@ Chris, a specialist in our Engineering Office wanted to work on how to find broa
 
 ##Notes
 We pulled off 11 products in 24 hours.  None of these products required procurement!  Not one.  Just about all of them had production on the www, without having to buy a server, software or licenses.  I am pretty sure this is what innovation is all about.  I am excited about the results and look forward to doing this again.  
+
+To us, the big idea is that we turn the normal process of bringing new skillsets in house on its ear; The government doesn't write a requirement to include "new widget x", we instead say to developers, bring us what you think is interesting and something you want to learn. Not only does that change the dynamic of standard top-down style, but it empowers developers (and all of us) to bring their energy and passion to something entirely new. 
+
+Continuous learning and growth also makes us a more nimble agency, moving away from monolithic system architectures to portable, changeable, flexible; largely based on open source tools. This not only makes us capable of utilizing the cutting edge in development, but allows us to be a contributor back to the larger community of open government.
 
 In speaking with all of the participants, they have all said they were super excited about the opportunity to participate and the results.  We got to learn from each other and really take some of our results and turn them into new production products.  
