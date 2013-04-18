@@ -5,29 +5,29 @@ desc: Recently at the FCC, we held an unusual day.  We call it D(f)evEx (pronoun
 shortdesc: Recently at the FCC, we held an unusual day.  We call it D(f)evEx (pronounced as either devex or fedex) Days, and this was our first ever.
 permalink: /post/devex-days.html
 ---
-Recently at the FCC, we held an unusual day.  We call it D(f)evEx (pronounced aither as devex or fedex) Days, and this was our first ever.  The idea stems from fedEx, where something needs to be delivered (as in production) in 24 hours; combined with a developer day. We took the opportunity to take a time out for our day to day grind, and promise to each other that we would produce working product in the next 24 hours; in essence a focused day of learning new skills, or honing existing ones, NOT part of our regular duties.
+Recently at the FCC, we held an unusual day.  We call it D(f)evEx (pronounced either as devex or fedex) Days, and this was our first ever.  The idea stems from fedEx, where something needs to be delivered (as in production) in 24 hours; combined with a developer day. We took the opportunity to take a time out for our day to day grind, and promise to each other that we would produce working product in the next 24 hours; in essence a focused day of learning new skills, or honing existing ones, NOT part of our regular duties.
 
 We wanted to test this out as an institutional innovation development kind of thing.  How could we spur some innovation, have some fun, and produce some product?  Rather than a forming a subcommittee to plan a meeting date to decide if we could bring in some facilitators and flesh out some objective learning, we said, lets just try a focused day of developing; developing whatever we want. The results are fascinating.  
 
 Here were the rules. 
 
-1. Say what you were planning on doing.  We all gathered for a morning meeting at 8:30 am.  At that meeting each person had 2 minutes to describe what we were going to work on for the next day.  For your 2 minutes you needed to say what your intent was, what you wanted to deliver, and what was the outcome.  The reason we did it this way was to institude peers holding to peers.  If you promise to your peers you were going to do something, you had better deliver.  
+1. Say what you were planning on doing.  We all gathered for a morning meeting at 8:30 am.  At that meeting each person had 2 minutes to describe what we were going to work on for the next day.  For your 2 minutes you needed to say what your intent was, what you wanted to deliver, and what was the outcome.  The reason we did it this way was to institute peers holding to peers.  If you promise to your peers you were going to do something, you had better deliver.  
 
 2. Work on that for the next 24 hours; phone off, email off, calendar blocked out, no distractions, just code.  The work product you were planning shouldn't be part of your normal work activities.
 
-3. Present results.  At 2 pm the next day, come back together.  Everyone has 10 minutes to present their product, followed by 5 minutes of questions, critiques and the like.  The presentations generally followed, this is what I set out to do, this is what I ended up doing, this is what i learned, and this is why its important.  The questions were generally things like why didn't you do it this way, thats cool, what would you do next.
+3. Present results.  At 2 pm the next day, come back together.  Everyone has 10 minutes to present their product, followed by 5 minutes of questions, critiques and the like.  The presentations generally followed, this is what I set out to do, this is what I ended up doing, this is what I learned, and this is why its important.  The questions were generally things like why didn't you do it this way, thats cool, what would you do next.
 
 ##Results
 
-Every single particpant presented working results mostly on gituhub.
+Every single participant presented working results mostly on github.
 
 ####Participant: **Greg Elin**
 
-Greg worked with Vagrant.  He wanted to see if he could use Vagrant to build a machine that would be an ideal development box for open data.  His results were spectacular[Greg's Vagrant Project](https://github.com/gregelin/vagrant_php-pgsql).  How might this be something bigger than just some side project, well watch here to see if if keeps building.
+Greg worked with Vagrant.  He wanted to see if he could use Vagrant to build a machine that would be an ideal development box for open data.  His results were spectacular[Greg's Vagrant Project](https://github.com/gregelin/vagrant_php-pgsql).  How might this be something bigger than just some side project, well watch here to see if it keeps building.
 
 ####Participant: **Don Harris** 
 
-Don worked with a Python library called matplotlib.  He wanted to see if he could use a new to the FCC Python library to create simple charts out of resulting geospatial analysis.  His example data was travel times to work.  His [full project](https://github.com/geodon7399/FedEx) describes how he did it and everthing, including [code](https://github.com/geodon7399/FedEx/blob/master/md_travel_times.py) and [results](https://github.com/geodon7399/FedEx/blob/master/md_travel_times.png).
+Don worked with a Python library called matplotlib.  He wanted to see if he could use a new to the FCC Python library to create simple charts out of resulting geospatial analysis.  His example data was travel times to work.  His [full project](https://github.com/geodon7399/FedEx) describes how he did it and everything, including [code](https://github.com/geodon7399/FedEx/blob/master/md_travel_times.py) and [results](https://github.com/geodon7399/FedEx/blob/master/md_travel_times.png).
 
 ####Participant: **Santosh Moghulla**
 
