@@ -59,7 +59,7 @@ Eric was gung ho to look at the [SDK](http://mapbox.com/mobile/) for MapBox on t
 
 _Particpant:_  **Mike Byrne**
 
-I wanted to play with how to get files into the geoJson format.  Seeing that many organizations only have ESRI sofware, particularly in government, and that ESRI doesn't give you good alternatives to create open formats for their data, I created the project [esri2open](https://github.com/feomike/esri2open).  I also made this [presentation](https://docs.google.com/presentation/d/1Ixsw344VvUEznYD2E4rO9yoBo4LoeU7vW7rEGeXoHGY/edit?usp=sharing) to describe the project.
+I wanted to play with how to get files into the geoJson format.  Seeing that many organizations only have ESRI sofware, particularly in government, and that ESRI doesn't give you good alternatives to create open formats for their data, I created the project [esri2open](https://github.com/project-open-data/esri2open).  I also made this [presentation](https://docs.google.com/presentation/d/1Ixsw344VvUEznYD2E4rO9yoBo4LoeU7vW7rEGeXoHGY/edit?usp=sharing) to describe the project.
 
 ####Participant:  **Chris Gao**
 
