@@ -1,4 +1,10 @@
-thoughts on disruption
+---
+layout: posts
+title: thoughts on disruption
+desc: earlier this week, [github released](https://github.com/blog/1528-there-s-a-map-for-that) a very small piece of code which does one small specific thing; it recognizes a [geoJson](http://www.geojson.org/) file in any [github repo](https://help.github.com/articles/create-a-repo), and automatically places a [mapbox map](http://www.mapbox.com/) under those tiles with simple pan, zoom and identify functions in a web map.  it is a remarkably simple feature, which i think significantly disrupts the traditional geospatial market.  the end result of this tiny enhancement to github, will, like many disruptions, significantly change the landscape of traditional geospatial practitioners.  here's why.
+shortdesc: Why the recent github release making geojson files automatic web maps is disruptive.
+permalink: /post/thoughts-on-disruption.html
+--- 
 
 earlier this week, [github released](https://github.com/blog/1528-there-s-a-map-for-that) a very small piece of code which does one small specific thing; it recognizes a [geoJson](http://www.geojson.org/) file in any [github repo](https://help.github.com/articles/create-a-repo), and automatically places a [mapbox map](http://www.mapbox.com/) under those tiles with simple pan, zoom and identify functions in a web map.  it is a remarkably simple feature, which i think significantly disrupts the traditional geospatial market.  the end result of this tiny enhancement to github, will, like many disruptions, significantly change the landscape of traditional geospatial practitioners.  here's why.
 
