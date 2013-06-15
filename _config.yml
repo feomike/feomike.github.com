@@ -2,6 +2,6 @@ title: feoNotes
 subtitle: Notes and Reflections by feoMike
 
 #build config
-server: true
+server: true 
 auto: true
 markdown: rdiscount 
