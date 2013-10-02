@@ -10,19 +10,32 @@ what i did on my first furlough day
 
 yesterday was my first day of furlough in the 2013 government shutdown. during the day i did the following things;
 
-* watched as my wife go off to work before me for the first time in a long long time
-* made breakfast for my sons and walked them to school
-* played around w/ the json library for python
-* tested the number of inserts per second postgres can handle in a single threaded situation (i am getting ~1500 or so inserts a second)
-* began training myself on noSQL document structures for collecting time, space, attribute values
-* went to pick up one son who came home from school sick
-* dug out part of my driveway that i am replacing
-* read some news about the shutdown, and followed some web ste closures/opens in particular
-* picked my other son up from school
-* made dinner
-* helped the boys with homework
-* watched some of how 'the universe works' with my oldest
+* watched as my wife go off to work before me for the first time in a long long time;
+
+* made breakfast for my sons and walked them to school; 
+ 
+* played around w/ the json library for python;
+ 
+* tested the number of inserts per second postgres can handle in a single threaded situation (i am getting ~1500 or so inserts a second);
+
+* began training myself on noSQL document structures for collecting time, space, attribute values;
+
+* went to pick up one son who came home from school sick;
+
+* dug out part of my driveway that i am replacing;
+
+* read some news about the shutdown, and followed some web ste closures/opens in particular;
+
+* picked my other son up from school;
+
+* made dinner; 
+
+* helped the boys with homework;
+
+* watched some of how 'the universe works' with my oldest;
+
 * went to bed
+
 
 i think it is safe to say i am a fairly active member of the government open data movement.  in this context, one thing in particular struct me as i was going through the list above, and in particular reading some of the web site closures; IT has changed radically during my career. 
 
