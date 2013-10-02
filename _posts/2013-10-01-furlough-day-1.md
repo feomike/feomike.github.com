@@ -9,6 +9,7 @@ shortdesc: yesterday was my first day of furlough in the 2013 government shutdow
 what i did on my first furlough day
 
 yesterday was my first day of furlough in the 2013 government shutdown. during the day i did the following things;
+
 * watched as my wife go off to work before me for the first time in a long long time
 * made breakfast for my sons and walked them to school
 * played around w/ the json library for python
