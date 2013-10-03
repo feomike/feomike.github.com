@@ -1,3 +1,11 @@
+---
+layout: posts
+title: what i did on my 2nd furlough day
+desc: yesterday was my 2nd furlough day in the 2013 government shutdown.  three small things happened to me personally yesterday that make me stop and think about the importance of government services.  in particular government electronic services and open data drive a significant portion of the american economy.  
+permalink: /post/second-furlough-day.html
+shortdesc: yesterday was my 2nd furlough day in the 2013 government shutdown.  three small things happened to me personally yesterday
+---
+
 what i did on my 2nd furlough day
 
 yesterday was my 2nd furlough day in the 2013 government shutdown.  three small things happened to me personally yesterday that make me stop and think about the importance of government services.  in particular government electronic services and open data drive a significant portion of the american economy.  without these services, that is without government investment in open data and electronic services,  some portion of the economy would be significantly more costly to implement and even not able to function because it would be too expensive.   these stories points to the importance of government open data, and how commerce is actually stifled because of the shutdown.
