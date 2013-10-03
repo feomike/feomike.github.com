@@ -4,8 +4,7 @@ yesterday was my 2nd furlough day in the 2013 government shutdown.  three small 
 
 while home, i received an email from [@benbalter](https://github.com/benbalter) which asked if i knew of an open dataset which linked 113th congressional boundaries to ZIP Codes.  he asked this question because a) someone asked him and b) the federal government shutdown has also shut down all of the government open data download sites (well almost all government web sites). so i took it upon myself to create one.  the results of this analysis are [here](https://github.com/feomike/cd113_zip_xwalk) and were remarkably easy to create.  this cost $0 in software, $0 processing, $0 in data hosting and took less than 1 hour to create (writing the readme actually took the longest).
 
-i also received an email from my brother-in-law showing his support for the shutdown.  in it, he made this statement "The IRS shut down their tax verification services -so lots
-of loans that need to fund are on hold"  Now i have not verified this, but if true, a subsequent result of the shutdown is a hold on a significant US commerce sector, home loans. 
+i also received an email from my brother-in-law showing his support for the shutdown.  in it, he made this statement "The IRS shut down their tax verification services -so lots of loans that need to fund are on hold".  Now i have not verified this, but if true, a subsequent result of the shutdown is a hold on a significant US commerce sector, home loans. 
 
 finally, at the end of the day, i received [this tweet](https://twitter.com/shawnbot/status/385525683218169858) asking if i knew a replacement API for the US Census Block lookup API we developed.  the twitter conversation ends in an example site that uses his API, yet another example of how open data drives US commerce.
 
