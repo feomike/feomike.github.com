@@ -16,5 +16,3 @@ finally, my colleagues in the bay area have created [this](http://maps.onebayare
 
 we all rely on the federal government for all kinds of services every day.  shutting it down hampers economic development, particularly because open data and electronic services which can only really be developed by the government mean investment in other sectors end up failing.  
 
-
-re these three are relatively small (tax verification not withstanding, it is just not verified by me)
