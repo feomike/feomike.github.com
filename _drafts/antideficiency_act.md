@@ -1,4 +1,13 @@
-The antideficiency act is the law currently being invoked for having government employees not work.  essentially is says that no one can commit the government to an expense without first having money to spend, as authorized by congress.  it came up 120 odd years ago, because there were emergency cases where the executive branch spent money without first asking congress, then congress had to come up w/ the money after the fact; essentially obligating the government to spend something before full and democratic debate.  a complete understanding of [the antideficiency act](http://www.gao.gov/legal/lawresources/antideficiencybackground.html) is found on the GAO web site.  a couple of recent articles in [slate.com](http://www.slate.com/blogs/moneybox/2013/10/01/federal_workers_can_t_volunteer_to_work_here_s_why.html) and [CNBC.com](http://www.cnbc.com/id/101078243) do a reasonable job of describing why most federal employees can't work during the shutdown.  
+---
+name: 2013-10-03-antideficiency-act.md
+layout: posts
+title: barriers to innovation
+desc: the antideficiency act is the law currently being invoked for having government employees not work.  essentially is says that no one can commit the government to an expense without first having money to spend, as authorized by congress.   
+permalink: /post/antideficiency-act.html
+shortdesc: The antideficiency act is the law currently being invoked for having government employees not work.
+---
+
+the antideficiency act is the law currently being invoked for having government employees not work.  essentially is says that no one can commit the government to an expense without first having money to spend, as authorized by congress.  it came up 120 odd years ago, because there were emergency cases where the executive branch spent money without first asking congress, then congress had to come up w/ the money after the fact; essentially obligating the government to spend something before full and democratic debate.  a complete understanding of [the antideficiency act](http://www.gao.gov/legal/lawresources/antideficiencybackground.html) is found on the GAO web site.  a couple of recent articles in [slate.com](http://www.slate.com/blogs/moneybox/2013/10/01/federal_workers_can_t_volunteer_to_work_here_s_why.html) and [CNBC.com](http://www.cnbc.com/id/101078243) do a reasonable job of describing why most federal employees can't work during the shutdown.  
 
 there are all kinds of caveats here and this is not meant to legal review. the basic issue invoked, is that a federal employee cannot volunteer for federal work, because that would be considered obligating the government for payment outside of congressional authority.
 
