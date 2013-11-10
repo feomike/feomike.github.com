@@ -19,7 +19,8 @@ then she told me about the new friend who has decided after 17 years in one prof
 ```javascript
     "it isn't classroom management. i guarantee you you can lead the largest corporation to record profits, or command platoons of people with the highest efficiency, and still fail in the classroom.  
   its not command of subject matter.  you can have a phd in your area, be published again and again, and you can still fail as a teacher.  
-    its not, and never will be command of technology.  the internet, the promethium board, ability to make video's or powerpoint won't save you or make you succeed.  you have to love these kids.  you have to see their success and their failures and love being with their crazy mis-spellings, and warped sense of humor, and fear of the unknown, and arrogance of youth and indeed hunger. when you love where they are, they will listen and learn from you."
+    its not, and never will be command of technology.  the internet, the promethium board, ability to make video's or powerpoint won't save you or make you succeed.  
+    none of these.  you succeed as a teacher when you love these kids.  you have to love these kids.  you have to see their success and their failures and love being with their crazy mis-spellings, and warped sense of humor, and fear of the unknown, and arrogance of youth and indeed hunger. when you love where they are, they will listen and learn from you."
 ```
 	
 success as a teacher, and i might add here as a human, is the desire to like other people.   i am in awe of my wife.  she is more successful in her career than i likely will ever be.  she makes kids get hamlet, and camus, and parallel sentence structure and verb tense, and ease fear of strangers, and feel less hungry, and soothes those who want to join a profession that we seem to care less about than making sure the class has broadband.  in my mind she walks on water.  i imagine, her students think more of her than that.  
