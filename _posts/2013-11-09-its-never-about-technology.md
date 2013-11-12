@@ -1,12 +1,12 @@
 ---
 layout: posts
 title: its never about technology
-desc: its been eating at me.  the constant tech news.  the constant headlines about failed government IT contracting.  the constant twitter feed of people telling each other what when wrong; how they know the answer.  the constant emails from colleagues with email links to more news articles with more talking heads selling their answer.  more hill hearings.  all of this conversation misses the mark about what really matters.  it is never about technology;  it is always about being human.
+desc: its been eating at me.  the constant tech news.  the constant headlines about failed government IT contracting.  the constant twitter feed of people telling each other what went wrong; how they know the answer.  the constant emails from colleagues with email links to more news articles with more talking heads selling their answer.  more hill hearings.  all of this conversation misses the mark about what really matters.  it is never about technology;  it is always about being human.
 shortdesc: its been eating at me.  the constant tech news.  the constant headlines about failed government IT contracting. 
 permalink: /post/its-never-about-technology.html
 ---
 
-its been eating at me.  the constant tech news.  the constant headlines about failed government IT contracting.  the constant twitter feed of people telling each other what when wrong; how they know the answer.  the constant emails from colleagues with email links to more news articles with more talking heads selling their answer.  more hill hearings.  all of this conversation misses the mark about what really matters.  it is never about technology;  it is always about being human.
+its been eating at me.  the constant tech news.  the constant headlines about failed government IT contracting.  the constant twitter feed of people telling each other what went wrong; how they know the answer.  the constant emails from colleagues with email links to more news articles with more talking heads selling their answer.  more hill hearings.  all of this conversation misses the mark about what really matters.  it is never about technology;  it is always about being human.
 
 never has this mantra, its never about technology, rang more true to me than this week.  professionally this week had a confluence of wonderful achievements. i came racing home friday proud to tell my wife of the wonderful technology we were about to release how we were going to change lives.  we were going to implement new technology focused on every mobile consumer in the US.  we were going to release data, maps and visuals that told everyone the story.  we were going to make sure every school has killer high speed broadband to allow all kids in the US have access to everything.  oh yea us technology giants.
 
