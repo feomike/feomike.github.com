@@ -1,3 +1,10 @@
+---
+layout: posts
+title: Testimonial
+desc: for the past couple of weeks i have been reflecting on the last four years at the fcc.  i feel, foremost, that we have had the great opportunity to be remarkably successful implementing information technology in federal government (albeit in a niche market of federal it). 
+permalink: /post/testimonial.html
+shortdesc: Writing out the names of the people who made the success at the fcc.  what they did.  the real rock stars
+---
 
 for the past couple of weeks i have been reflecting on the last four years at the fcc.  i feel, foremost, that we have had the great opportunity to be remarkably successful implementing information technology in federal government (albeit in a niche market of federal it).  we have accomplished this in a time when it seems that it is crazy hard to implement successful information technology projects in government.  what and how we accomplished this is the subject of several forthcoming posts, but i wanted to take the opportunity to introduce the people who worked behind (and some in front) of the scenes at the fcc. we predominantly worked on  the national broadband map, but we also brought to the commission a unique ability to work fast to prepare visualizations which told a story of a very abstract landscape (one usually defined by rules sounding remarkably like some line from a monty python movie.  regardless, this group of people, working mostly under the radar are the people to watch.  they are the outliers.  the radar o'reilly's.  the scotty's.   the ones who are thirsting for some new way of doing things who can turn 5 minutes of code into a virtual cornucopia of fruitful delights.  i mention them here by name, because our success has little to do with the commission, has little to do with the company they work for (if not the commission), and has everything to do with the simple fact that the most important factor in success in federal information technology is the ability of the people to be innovative.  in no particular order;
 
