@@ -9,7 +9,7 @@ permalink: /post/great-american-cyclists-subtitled-innovation.html
 This post is an ignite talk that i gave at a staff event yesterday.
 
 
-[Slide 1](https://github.com/feomike/feomike.github.com/blob/master/images/post_cyclists/slide1.png) - hello, this talk titled ‘Great American Cyclists  Subtitled: Innovation’.  I am using the term ‘cyclists’ here perhaps a little broadly.  I am going to run through my top 10 great American cyclists, give a little of their background and round it all out w/ innovation.  So humor me and quickly jot down who you think the #1 is.
+[Slide 1](https://raw.github.com/feomike/feomike.github.com/blob/master/images/post_cyclists/slide1.png) - hello, this talk titled ‘Great American Cyclists  Subtitled: Innovation’.  I am using the term ‘cyclists’ here perhaps a little broadly.  I am going to run through my top 10 great American cyclists, give a little of their background and round it all out w/ innovation.  So humor me and quickly jot down who you think the #1 is.
 
 [Slide 2](https://github.com/feomike/feomike.github.com/blob/master/images/post_cyclists/slide2.png) - I thought since the Tour de France kicked off this past weekend, and we unfortunately lost to Belgium in the World Cup last week, that we should all take a brief moment to refresh ourselves with that other great American sport, cycling.  Really what I want to do is describe how the bike made the world flat as Thomas Friedman suggests.
 
