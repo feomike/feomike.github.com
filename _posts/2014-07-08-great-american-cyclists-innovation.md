@@ -37,7 +37,7 @@ This post is an ignite talk that i gave at a staff event yesterday.
 
 [Slide 14](https://github.com/feomike/feomike.github.com/blob/master/images/post_cyclists/slide14.png) - This group of cyclists were innovative themselves in the sport.  Armstrong changed race tactics, diet, training, basically everything. Lemond was the first to use clip on bar, areo helmets and clipless peddles.  Twigg and Carpenter were the first real icons of pro women's cycling.  Haldeman invented ultra marathoning.  Fisher and Ricthey, well they invented a sub-cult.  And Major Taylor, he inspired others by being the first African American in the sport.  In short a huge percentage of these individuals were radical in the sport.
 
-[Slide 15](https://github.com/feomike/feomike.github.com/blob/master/images/post_cyclists/slide15.png) - Here is another different patter.  This group of individuals didn’t have cycling as their first or primary sport.  70 percent were not cyclists to begin with, but these are all great (in all senses of the word) cyclists.  That is just plain super interesting.
+[Slide 15](https://github.com/feomike/feomike.github.com/blob/master/images/post_cyclists/slide15.png) - Here is another different pattern.  This group of individuals didn’t have cycling as their first or primary sport.  70 percent were not cyclists to begin with, but these are all great (in all senses of the word) cyclists.  That is just plain super interesting.
 
 [Slide 16](https://github.com/feomike/feomike.github.com/blob/master/images/post_cyclists/slide16.png) - This group did more after cycling.  Again a staggering patter.  70 percent did more, by some measure, in something else after the sport, that their already massive achievements in the sport. This is a crazy pattern.
 
