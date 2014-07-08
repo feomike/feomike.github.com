@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: Great American Cyclists: Subtitle Innovation
+title: Great American Cyclists - Subtitle Innovation
 desc: This is an ignite talk i gave at a staff event.  The intent of this talk is really to refresh our understanding of that great american sport, cycling, and tie it all back to our understanding of innovation.
 shortdesc: This is an ignite talk i gave at a staff event about american cycling and innovation.
-permalink: /post/great-american-cyclists-subtitled-innovationit.html
+permalink: /post/great-american-cyclists-subtitled-innovation.html
 ---
 
 This post is an ignite talk that i gave at a staff event yesterday.
