@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: the fixie federal IT paradigm
-desc: I owned and road my first fixed gear bike in the winter of 1985.  I was a member of my [high school cycling team](https://plus.google.com/photos/107309665626201238020/albums/posts/6035339117449702674?banner=pwa&pid=6035339117449702674&oid=107309665626201238020) back then in Fall River (pronounced fall reeva) Ma.  Winter's in south eastern new england are a little harsh, there is a good mix of snow, freezing rain storms, north-easters coming in off the atlantic which make for extra salt corrosion [see rusty jones](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=rusty%20jones). 
+desc: I owned and road my first fixed gear bike in the winter of 1985.  I was a member of my high school cycling team back then in Fall River (pronounced fall reeva) Ma.  Winter's in south eastern new england are a little harsh, there is a good mix of snow, freezing rain storms, north-easters coming in off the atlantic which make for extra salt corrosion see rusty jones.
 shortdesc: the fixie federal IT paradigm says we can strip investment to 1 cog that gives 85% of functions for 10% of its cost.
 permalink: /post/fixie-federal-it-paradigmn.html
 ---
