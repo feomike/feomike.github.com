@@ -1,3 +1,11 @@
+---
+layout: posts
+title: the fixie federal IT paradigm
+desc: I owned and road my first fixed gear bike in the winter of 1985.  I was a member of my [high school cycling team](https://plus.google.com/photos/107309665626201238020/albums/posts/6035339117449702674?banner=pwa&pid=6035339117449702674&oid=107309665626201238020) back then in Fall River (pronounced fall reeva) Ma.  Winter's in south eastern new england are a little harsh, there is a good mix of snow, freezing rain storms, north-easters coming in off the atlantic which make for extra salt corrosion [see rusty jones](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=rusty%20jones). 
+shortdesc: the fixie federal IT paradigm says we can strip investment to 1 cog that gives 85% of functions for 10% of its cost.
+permalink: /post/fixie-federal-it-paradigmn.html
+---
+
 the fixie federal IT paradigm
 
 I owned and road my first fixed gear bike in the winter of 1985.  I was a member of my [high school cycling team](https://plus.google.com/photos/107309665626201238020/albums/posts/6035339117449702674?banner=pwa&pid=6035339117449702674&oid=107309665626201238020) back then in Fall River (pronounced fall reeva) Ma.  Winter's in south eastern new england are a little harsh, there is a good mix of snow, freezing rain storms, north-easters coming in off the atlantic which make for extra salt corrosion [see rusty jones](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=rusty%20jones).  winters are so harsh, that a local [weather man](https://www.google.com/search?q=john+ghiorse&espv=2&tbm=isch&tbo=u&source=univ&sa=X&ei=CTLBU8S2LtSpyATG0oKIAw&sqi=2&ved=0CC8QsAQ&biw=1235&bih=594#facrc=_&imgdii=_&imgrc=XlvWAnJZAF37XM%253A%3BsxeJghq9dEFVaM%3Bhttp%253A%252F%252Fwjar.images.worldnow.com%252Fimages%252F2163742_G.jpg%3Bhttp%253A%252F%252Fwww.turnto10.com%252Fstory%252F21120724%252Fleave-retirement-wishes-for-john-ghiorse%3B320%3B240) became legendary in the time for how he [scaled the weather quality of the day](https://twitter.com/GhiorseFactor) ([the capital weather gang](http://www.washingtonpost.com/blogs/capital-weather-gang/) has nothing on the Ghiorse).
