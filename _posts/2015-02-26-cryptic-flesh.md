@@ -1,3 +1,11 @@
+---
+layout: posts
+title: cryptic flesh
+desc: while i in high school i hung up w/ a group of friends who were very smart, and somewhat subversive.  these were people from town (i went far away to high school), and a couple of them noticed how fast certain folks grabbed on to a new fad, cool/hip thing or music. 
+permalink: /post/cryptic-flesh.html
+shortdesc: be very careful of any IT bandwagon, because in reality, it might be a fake band
+---
+
 while i in high school i hung up w/ a group of friends who were very smart, and somewhat subversive.  these were people from town (i went far away to high school), and a couple of them noticed how fast certain folks grabbed on to a new fad, cool/hip thing or music.  so in a small experiment, these folks made up a fake band, fake band tour t-shirts and perhaps even bumper stickers.  the band name was 'cryptic flesh' and tour dates on the t-shirt included places like 'toledo oh' or 'rochester ny' and had in red diagonal letters over the cities 'sold out'.  on the front was icons like zombies, and arms reaching up out of the ground.  there was this whole theme; it was punk, it worked and it was totally fake.  we wore the shirts all the time, and we swear that people came up to us and said, 'cryptic flesh; sweet.  i saw them last week in providence, they rocked'.  we laughed it was fun, and became way bigger in my mind than perhaps it was.  i think there is an interesting lesson here.
 
 people collectively often get hung up by whats popular; what everyone is doing, what is mainstream and try to repeat it under the premise, well it worked for them, it should work for me.  this misguided premise happens consistently in IT.  how long have we heard that everything needs to be enterprise?  how long have we heard that the only scaleable solution is the cloud?  how long have we heard that the only viable way to run IT is to make sure you have a small management set of tools, so your portfolio is manageable?  in principle many of these adages are true, the fault is that they don't always work.
