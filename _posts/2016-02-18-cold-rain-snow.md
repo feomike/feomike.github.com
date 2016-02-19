@@ -1,3 +1,11 @@
+---
+layout: posts
+title: Cold Rain and Snow
+desc: do you remember the first time that is shook your bones?  passion.  i don't mean here ecstasy, or some fleeting feeling of flesh; i mean passion; an intense desire or enthusiasm; thirst of life.  for me it was april 2, 1987. tonight i was reminded of it.
+permalink: /post/cold-rain-snow.html
+shortdesc: tonight i have remembered the night it shook my bones.  i just wanted to write about it for its own sake.
+---
+
 do you remember the first time that is shook your bones?  passion.  i don't mean here ecstasy, or some fleeting feeling of flesh; i mean passion; an intense desire or enthusiasm; thirst of life.  for me it was april 2, 1987. tonight i was reminded of it.
 
 for the past couple weeks i have been struggling with a certain ennui.  i can't tell if it was from seasonal affect.  perhaps it is election season and dismal state of discourse in our time.  perhaps a conversation about transition at work; movement in upper ranks and a certain uncertainty that transition brings.  perhaps the frustration i feel when i see veneer professionals gaining mass attention on a great cause, but one that misses the mark when it comes to sustainable and real solutions to public policy.  perhaps something else.  never the less, the ennui had set in.  a conversation over beers about 'all the things' shed some light on how i could make meaningful strides to solve some of the problems, tonight, but it was really the metro home and suffle on the music collection on my phone that changed everything.  on came 'cold rain and snow', by the grateful dead (the 'steel your face' version).  several transformations ensued.
