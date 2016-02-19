@@ -28,4 +28,4 @@ i do it for the mission.  in our case, it is ensuring that consumers have access
 
 sometimes it takes a [silly piece of music ... that you love so much that it hurts](https://www.youtube.com/watch?v=PZJizD49bwM) to remind you of the moral compass guiding your being (yes i just quoted saphire).  it takes passion to serve.  i am thankful i have witnessed it, am **grateful** to be reminded of it, am honest that it waxes and wanes for me, and hopeful that it restores my focus.
 
-tonight i have remembered the night it shook my bones.  i just wanted to write about it for its own sake.
+[tonight i have remembered the night it shook my bones](../images/tape.jpg).  i just wanted to write about it for its own sake.
