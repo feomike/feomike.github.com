@@ -1,9 +1,9 @@
 ---
 layout: posts
 title: better results
-desc: in 1989, i took a semester off from college to take a field geography course out of san francisco state university focusing on public land management.  we hiked for 10 weeks in southern utah and northern arizona, the most beautiful country on earth.
+desc: We don’t change the rules of the procurement game, but we incentivize timeliness over scope creep, change how we plan for implementation, and restructure our vendor relationships to leverage the skills and experience of our dedicated colleagues in public service. Finally, we must articulate why we are prioritizing one project over another and what the boundaries of each project really are.
 permalink: /post/better_results.html
-shortdesc: i hope that there is a slim chance my children can experience some mountains or canyons, without handrails.
+shortdesc: Projects (any kind of project) are primarily driven by managing interrelated risks: risk that we won’t finish the project on time, the risk of exceeding the budget and the risk that we won’t get the return/results we want.
 ---
 
 Gov tech - response to CFA question
