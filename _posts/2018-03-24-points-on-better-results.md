@@ -9,7 +9,7 @@ shortdesc: Changing the federal acquisition regulation would require an inordina
 Gov tech - response to CFA question
 -------------------------------------------------
 
-CFA founder and executive director jennifer pahlka posed the following questions of medium recently.  
+CFA founder and executive director Jennifer Pahlka posed the following questions of medium recently.  
 * what can/should procurement officers, program staff and leadership in government do [tp change the rules of the procurement game to consistently get better outcomes for taxpayers and the users]?
 * What’s worked so far that others in government should be borrowing?  What bold ideas need championing and pioneering?
 * What can/should government contractors do (both leadership and employees)?  Given that they don’t tend to set the rules, what responsibility do they have to be part of changing them?  Who’s been showing leadership here and how might others?
