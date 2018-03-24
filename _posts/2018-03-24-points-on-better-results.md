@@ -1,10 +1,10 @@
 ---
 layout: posts
-title: 4 Points on Achieving Better Results in Govt IT Projects
-desc: as with all things in policy, there is never a silver bullet.  There is never one lever to pull which fixes all the problems.  The four points in this response have worked for me, in the situations I have implemented.  Others might have success with other levers.  The thing we should be really wary of is someone hocking a solution to solve all the problems. 
-permalink: /post/4-points-on-better-results.html
-shortdesc: Projects (any kind of project) are primarily driven by managing interrelated risks: risk that we won’t finish the project on time, the risk of exceeding the budget and the risk that we won’t get the return/results we want. 
---- 
+title: better results
+desc: in 1989, i took a semester off from college to take a field geography course out of san francisco state university focusing on public land management.  we hiked for 10 weeks in southern utah and northern arizona, the most beautiful country on earth.
+permalink: /post/better_results.html
+shortdesc: i hope that there is a slim chance my children can experience some mountains or canyons, without handrails.
+---
 
 Gov tech - response to CFA question
 -------------------------------------------------
