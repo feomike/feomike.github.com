@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: better results
+title: Better IT Results
 desc: We don’t change the rules of the procurement game, but we incentivize timeliness over scope creep, change how we plan for implementation, and restructure our vendor relationships to leverage the skills and experience of our dedicated colleagues in public service. Finally, we must articulate why we are prioritizing one project over another and what the boundaries of each project really are.
 permalink: /post/better_results.html
 shortdesc: Changing the federal acquisition regulation would require an inordinately large shift, likely an Administrative Procedures Act rulemaking or perhaps even legislation, both of which are very unlikely scenarios.
