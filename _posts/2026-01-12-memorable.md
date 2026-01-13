@@ -1,13 +1,13 @@
 ---
 layout: posts
 title: memorable
-desc: a close friend, after reading a simple post of mine in honor of the passing of bobby wier, asked, any especially memorable ones?  He is referring to shows I had seen by the Grateful Dead.  The short answer is yes, but there is a long answer.
+desc: a close friend, after reading a simple post of mine in honor of the passing of bobby weir, asked, any especially memorable ones?  He is referring to shows I had seen by the Grateful Dead.  The short answer is yes, but there is a long answer.
 permalink: /post/memorable.html
 shortdesc: what have been your most memorable grateful dead shows?
 ---
 any especially memorable ones
 
-a close friend, after reading a simple post of mine in honor of the passing of bobby wier, asked, any especially memorable ones?  he is referring to shows i had seen by the Grateful Dead.  the short answer is yes, but there is a long answer.
+a close friend, after reading a simple post of mine in honor of the passing of bobby weir, asked, any especially memorable ones?  he is referring to shows i had seen by the Grateful Dead.  the short answer is yes, but there is a long answer.
 
 the very first time I saw the Grateful Dead, was [april 2, 1987](https://gratefuldeadoftheday.com/04-02-1987/) at the worcester centrum.  [i wrote about it here](https://feomike.github.io/post/cold-rain-snow.html).  i got on the bus that night.  i even got on the bus sober that night, and saw every show that way.  
 
