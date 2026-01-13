@@ -1,13 +1,13 @@
 ---
 layout: posts
 title: memorable
-desc: a close friend, after reading a simple post of mine in honor of the passing of bobby wire, asked, any especially memorable ones?  He is referring to shows I had seen by the Grateful Dead.  The short answer is yes, but there is a long answer.
+desc: a close friend, after reading a simple post of mine in honor of the passing of bobby wier, asked, any especially memorable ones?  He is referring to shows I had seen by the Grateful Dead.  The short answer is yes, but there is a long answer.
 permalink: /post/memorable.html
 shortdesc: what have been your most memorable grateful dead shows?
 ---
 any especially memorable ones
 
-a close friend, after reading a simple post of mine in honor of the passing of bobby wire, asked, any especially memorable ones?  he is referring to shows i had seen by the Grateful Dead.  the short answer is yes, but there is a long answer.
+a close friend, after reading a simple post of mine in honor of the passing of bobby wier, asked, any especially memorable ones?  he is referring to shows i had seen by the Grateful Dead.  the short answer is yes, but there is a long answer.
 
 the very first time I saw the Grateful Dead, was [april 2, 1987](https://gratefuldeadoftheday.com/04-02-1987/) at the worcester centrum.  [i wrote about it here](https://feomike.github.io/post/cold-rain-snow.html).  i got on the bus that night.  i even got on the bus sober that night, and saw every show that way.  
 
@@ -21,7 +21,7 @@ rarer still i got to see the boys play the who’s Baba O’Reilly at [calexpo](
 
 i got to see the van morrison classic Gloria, which they played only 16 times (maybe more, maybe less, records seem unclear on this one).  i saw it in [oakland](https://gratefuldeadoftheday.com/01-26-1993/).  It was a chinese new years and carlos santana joined them.
 
-rounding the horn of british / emerald isle covers, i saw them play the beatles Lucy in the Sky With Diamonds - twice.  they played this only 19 times.  i saw it [late in 1994 in oakland](https://gratefuldeadoftheday.com/12-08-1994/) - that night i was with cath - and again [in oakland on](https://gratefuldeadoftheday.com/02-25-1995/).  this one was my second to last show.  the bus ride would end of this version of the band the following night, and end with a wonderful bookend of [Not Fade Away/Box of Rain](https://gratefuldeadoftheday.com/02-26-1995/).
+rounding the horn of british / emerald isle covers, i saw them play the beatles Lucy in the Sky With Diamonds - twice.  they played this only 19 times.  i saw it [late in 1994 in oakland](https://gratefuldeadoftheday.com/12-08-1994/) - that night i was with cath - and again [in oakland](https://gratefuldeadoftheday.com/02-25-1995/).  this one was my second to last show.  the bus ride would end of this version of the band the following night, and end with a wonderful bookend of [Not Fade Away/Box of Rain](https://gratefuldeadoftheday.com/02-26-1995/).
 
 two others of note, were even rarer.  i saw them in providence play the richie valens classic La Bamba.  I got to see jerry sing in [spanish and it was stunning](https://gratefuldeadoftheday.com/09-07-1987/).  they only played this song 5 times ever.
 
